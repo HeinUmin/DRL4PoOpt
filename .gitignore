@@ -1,0 +1,7 @@
+__pycache__
+/backup
+/data
+/results
+/tensorboard_log
+/trained_models
+.vscode
